@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 14 22:34:50 CET 2020
+javaee-api-7.0-1-tomcat.jar>libs-snapshot=
+javaee-api-7.0-1.pom>libs-snapshot=
+javaee-api-7.0-1.jar>libs-snapshot=

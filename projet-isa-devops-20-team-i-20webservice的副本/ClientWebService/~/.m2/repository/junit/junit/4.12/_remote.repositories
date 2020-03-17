@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 14:41:46 CET 2020
+junit-4.12.jar>libs-snapshot=
+junit-4.12.pom>libs-snapshot=

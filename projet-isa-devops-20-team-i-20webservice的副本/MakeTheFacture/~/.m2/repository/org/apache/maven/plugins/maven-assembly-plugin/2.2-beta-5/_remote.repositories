@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 15:52:45 CET 2020
+maven-assembly-plugin-2.2-beta-5.jar>libs-snapshot=
+maven-assembly-plugin-2.2-beta-5.pom>libs-snapshot=

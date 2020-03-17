@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 15:52:45 CET 2020
+maven-dependency-plugin-2.8.jar>libs-snapshot=
+maven-dependency-plugin-2.8.pom>libs-snapshot=
